@@ -135,6 +135,8 @@ GameObject:
   - component: {fileID: 206617587}
   - component: {fileID: 206617586}
   - component: {fileID: 206617585}
+  - component: {fileID: 206617589}
+  - component: {fileID: 206617590}
   m_Layer: 0
   m_Name: Mercury
   m_TagString: Untagged
@@ -218,6 +220,34 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &206617589
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 206617584}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d35e7fe5196c72248aec75961558cecd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rotationSpeed: 15
+  pivotObject: {fileID: 1866190081}
+--- !u!114 &206617590
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 206617584}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d35e7fe5196c72248aec75961558cecd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rotationSpeed: 0
+  pivotObject: {fileID: 0}
 --- !u!1 &229317750
 GameObject:
   m_ObjectHideFlags: 0
