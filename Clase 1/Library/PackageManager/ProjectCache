@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637831160785772577
+      ticks: 637835486016856942
     m_Hash: 4007186375
   m_LockFileStatus:
     m_FilePath: C:/Users/Administrador/Desktop/Solar-system/Clase 1/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637831161079730401
+      ticks: 637835487867579451
     m_Hash: 38571225
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
