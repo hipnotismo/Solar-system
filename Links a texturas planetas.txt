@@ -1,2 +1,4 @@
 https://www.solarsystemscope.com/textures/
 http://planetpixelemporium.com/earth.html
+
+SerializeField para variables privadas, hace que se pueda ver en el editor.
