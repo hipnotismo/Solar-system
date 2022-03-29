@@ -1,4 +1,11 @@
 https://www.solarsystemscope.com/textures/
 http://planetpixelemporium.com/earth.html
+`
+Terminar menu
+Sonido
+Camara translacion.
+
+https://stackoverflow.com/questions/65816546/unity-camera-follows-player-script
+Fise update
 
 SerializeField para variables privadas, hace que se pueda ver en el editor.
