@@ -5,8 +5,8 @@ using UnityEngine.SceneManagement;
 
 public class Play_button : MonoBehaviour
 {
-    void Update()
+    public void ShipGame()
     {
-        SceeneMan
+        SceneManager.LoadScene("ShipGame");
     }
 }
